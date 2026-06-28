@@ -1,4 +1,4 @@
-# Part 4 – Tableau Executive Dashboard & Data Storytelling
+# Part 4 – Tableau Executive Dashboard 
 
 ## Project Overview
 
